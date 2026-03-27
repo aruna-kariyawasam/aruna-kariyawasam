@@ -9,7 +9,6 @@ I am an undergraduate student at the University of Kelaniya studying Electronics
 🔧 Currently working on embedded automation systems and real-time data acquisition tools.
 
 * 🌍  Based in 🇱🇰 Sri Lanka  
-* 🖥️  Portfolio: [Aruna Kariyawasam](http://portfolio-aruna-kariyawasam-w.vercel.app/)  
 * ✉️  Contact: [arunakariyawasam.official@gmail.com](mailto:arunakariyawasam.official@gmail.com)  
 * 👥  Open to collaboration on embedded systems, PCB/circuit design, GUI development, and web-based projects  
 
