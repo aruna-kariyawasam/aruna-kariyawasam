@@ -1,77 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aruna Kariyawasam
-==========================================================================================================================================
+<p align="center">
+  <a href="https://github.com/aruna-kariyawasam">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=986&text=Hello!%20I'm%20Aruna%20Kariyawasam" alt="Hello! I'm Aruna Kariyawasam" />
+  </a>
+</p>
 
-Electronics & Computer Science Undergraduate @ UoK
---------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Electronics%20%26%20Computer%20Science%20Graduate%20at%20University%20of%20Kelaniya" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
 
 I am an undergraduate student at the University of Kelaniya studying Electronics and Computer Science. My interests include embedded systems, electronics, and software development, with a focus on building systems that integrate hardware and software. I have worked on projects involving microcontrollers, automation systems, GUI applications, and web technologies. My technical experience includes Python, C/C++, Java, React, and system design, with hands-on exposure to real-time data acquisition, control systems, and user-oriented interfaces. I am motivated by practical problem-solving and continuously developing my skills through projects and research.
 
-🔧 Currently working on embedded automation systems and real-time data acquisition tools.
+🌱 &nbsp;I'm currently learning **Multilayer PCB Designing & Modern Graphical User Interface Development.**  
+👯 &nbsp;I'm looking to collaborate on **Open to collaboration on embedded systems, PCB/circuit design, GUI development, and web-based projects.**  
+💬 &nbsp;Ask me about **Electronics**  
+😄 &nbsp;Pronouns: **He/His**
 
-* 🌍  Based in 🇱🇰 Sri Lanka  
-* ✉️  Contact: [arunakariyawasam.official@gmail.com](mailto:arunakariyawasam.official@gmail.com)  
-* 👥  Open to collaboration on embedded systems, PCB/circuit design, GUI development, and web-based projects  
+### 🛠️ PCB Design & Electronics CAD
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/EasyEDA-1769FF?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA" />
+  <img src="https://img.shields.io/badge/Proteus-1E8CBE?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
+</p>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/aruna-kariyawasam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/00__arunakariyawasam__17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:arunakariyawasam.official@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aruna-kariyawasam&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aruna-kariyawasam&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-## Technical Skills
-
-### 🔹 Embedded Systems & Core Programming
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" title="C"/></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" title="C++"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" title="Python"/></a>
-<a href="https://store.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" title="Arduino"/></a>
-<a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" title="Raspberry Pi"/></a>
-</p>
-
-### 🔹 Software & Web Development
-<p align="left">
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" title="Java"/></a>
-<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36" title="Spring Boot"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React"/></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" title="Tailwind CSS"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" title="MySQL"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" title="MongoDB"/></a>
-</p>
-
-### 🔹 PCB Design & Electronics CAD
-- **Altium Designer**
-- **KiCad**
-- **EasyEDA**
-- **Proteus**
-
-### 🔹 UI / Graphic Design
-<p align="left">
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" title="Figma"/></a>
-<a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" title="Illustrator"/></a>
-</p>
-
-### 🔹 Development Tools
-<p align="left">
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" title="VS Code"/></a>
-<a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="36" height="36" title="Postman"/></a>
-<a href="https://www.qt.io/product/development-tools"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qt.svg" width="36" height="36" title="Qt Designer / Qt Design Studio"/></a>
-</p>
-
----
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/aruna-kariyawasam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>
-<a href="https://www.linkedin.com/in/aruna-kariyawasam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
-<a href="https://www.instagram.com/00___arunakariyawasam___17/?__pwa=1"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
-</p>
-
----
-
-### GitHub Stats
-
-<a href="https://github.com/aruna-kariyawasam">
-<img src="https://github-readme-stats.vercel.app/api?username=aruna-kariyawasam&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true" />
-</a>
-
-<a href="https://github.com/aruna-kariyawasam">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruna-kariyawasam&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true" />
-</a>
+<p align="center"><i>⭐️ From <a href="https://github.com/aruna-kariyawasam">aruna-kariyawasam</a></i></p>
